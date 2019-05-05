@@ -1,0 +1,15 @@
+current directory: /Users/yamaguchi/Desktop/environment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/yamaguchi/.rbenv/versions/2.5.3/bin/ruby -I /Users/yamaguchi/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190505-24833-fxmb9p.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yamaguchi/Desktop/environment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/yamaguchi/Desktop/environment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yamaguchi/Desktop/environment/hello_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190505-24833-1ydi1wx/bootsnap
